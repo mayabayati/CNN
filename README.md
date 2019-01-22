@@ -8,5 +8,5 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 
 Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pixels in total. Each pixel has a single pixel-value associated with it, indicating the lightness or darkness of that pixel, with higher numbers meaning darker. This pixel-value is an integer between 0 and 255.The training and test data sets have 785 columns.The rest of 784 columns (1-785) contain the pixel-values of the associated image.
 
-Used Kaggle Kernels and GPU to train the model.
-\n Test Accuracy: 0.948
+Used Kaggle Kernels and GPU to train the model.\n
+Test Accuracy: 0.948
